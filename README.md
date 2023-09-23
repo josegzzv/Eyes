@@ -1,4 +1,4 @@
-# Eye-Following JavaScript Project
+# Eyes Excercise
 
 ![eyes](https://github.com/josegzzv/Eyes/assets/15818504/60465f9e-5289-4f32-ac14-8ccd5137395a)
 
@@ -7,9 +7,9 @@
 
 This JavaScript project creates a simple and fun animation where a pair of eyes follows the mouse cursor's movement. It's an interactive way to engage users and showcase DOM manipulation using JavaScript. Check out how it works and how the objects are manipulated in order to get the effect.
 
-## Demo
+## Live Demo
 
-You can see a live demo of this project 
+You can see a live demo of this project <a href="https://josegzzv.github.io/Eyes/Eyes/">Here</a>
 
 ## Features
 
@@ -29,11 +29,7 @@ You can see a live demo of this project
 
 3. Move your mouse cursor within the browser window, and observe how the eyes follow its movement.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
-
-## Future Features
+## Pending Tasks and Future Enhancements
 
 We have plans to enhance this project with the following features in the future:
 
@@ -43,5 +39,14 @@ We have plans to enhance this project with the following features in the future:
 
 If you have any feature requests or would like to contribute to the development of this project, please feel free to open an issue or a pull request.
 
----
 Enjoy experimenting with this eye-following JavaScript project! Feel free to customize it and add your own creative touch.
+
+<a href="https://josegzzv.github.io/Eyes">Go to repository</a>
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
+
