@@ -41,7 +41,7 @@ If you have any feature requests or would like to contribute to the development 
 
 Enjoy experimenting with this eye-following JavaScript project! Feel free to customize it and add your own creative touch.
 
-<a href="https://josegzzv.github.io/Eyes">Go to repository</a>
+<a href="https://github.com/josegzzv/Eyes">Go to repository</a>
 
 ---
 
